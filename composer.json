@@ -1,8 +1,8 @@
 {
-    "name": "laravel-enso/control-panel-api",
+    "name": "genealogiawebsite/control-panel-api",
     "description": "Control Panel API for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "controlpanel",
         "api",
         "laravel"
@@ -13,23 +13,23 @@
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/logs": "^4.0",
-        "laravel-enso/action-logger": "^3.0",
-        "laravel-enso/control-panel-common": "^2.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/logs": "^4.0",
+        "genealogiawebsite/action-logger": "^3.0",
+        "genealogiawebsite/control-panel-common": "^2.0"
     },
     "autoload": {
         "psr-4": {
